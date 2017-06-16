@@ -20,7 +20,7 @@
   <li>Clone repo: 'git clone https://github.com/sschweig/ConvNet.git'</li>
   <li>Navigate to repo root (same file as root.txt) -> Create folder "DATA"</li>
   <li>Navigate to DATA -> Create folders "TEST" and "TRAIN"</li>
-  <li>Download AN4 DB at above link</li>
+  <li>Download AN4 DB "Raw audio (.raw) format, little endian byte order"</li>
   <li>Unpack an4test_clstk to DATA/TEST and an4_clstk to DATA/TRAIN</li>
 </ol>
 
