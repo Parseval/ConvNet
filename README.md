@@ -16,9 +16,7 @@
   <li>Verify CNTK install: 'python -c "import cntk; print(cntk.__version__)"'</li>
   <li>Clone repo: 'git clone https://github.com/sschweig/ConvNet.git'</li>
   <li>Navigate to repo root (same file as root.txt) -> Create folder "DATA"</li>
-  <li>Navigate to DATA -> Create folders "TEST" and "TRAIN"</li>
-  <li>Download AN4 DB "Raw audio (.raw) format, little endian byte order"</li>
-  <li>Unpack an4test_clstk to DATA/TEST and an4_clstk to DATA/TRAIN</li>
+  <li>Download hc_samp_aud_filt.wav from Slack and unpack to a seperate folder.</li>
 </ol>
 
 <p>*Correct URL can be found at CNTK 2.0 link above. Go to Python 3.6 and select appropriate version. <b>"If you plan on using a GPU enabled version of CNTK, you will need a CUDA 8 compliant graphics card and up-to-date graphics drivers installed on your system."</b></p>
